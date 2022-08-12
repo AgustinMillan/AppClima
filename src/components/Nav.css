@@ -1,0 +1,15 @@
+#logoHenry {
+  margin-right: 10px;
+  border-radius: 100%;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#linkabout{
+  font-size: 30px;
+  font-weight: 600;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}

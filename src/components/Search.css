@@ -1,0 +1,17 @@
+.btn {
+  background-color: rgb(33, 50, 64);
+  border-style: solid;
+  border-color: rgb(2, 108, 2);
+  border-radius: 5px;
+  color: rgb(2, 108, 2);
+  font-weight: bold;
+}
+input{
+  margin-right: 5px;
+  border-radius: 12px;
+}
+input::placeholder{
+    color: rgb(33, 50, 64);
+    font-size: 1.2em;
+    font-style: italic;
+}

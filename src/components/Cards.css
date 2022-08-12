@@ -1,0 +1,16 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#sinc{
+  color: antiquewhite;
+}
+
+#contenedor12{
+  margin-top: 10%;
+  width: auto;
+  background-color: rgba(21, 21, 21, 0.698);
+  border-radius: 12px;
+}

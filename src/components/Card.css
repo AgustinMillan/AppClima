@@ -1,0 +1,36 @@
+.card {
+  margin: 20px;
+  width: 18rem;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 12px;
+}
+
+.card-title {
+  margin-bottom: 15px;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 8px;
+  margin-top: 8px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.btnc{
+  background-color: whitesmoke;
+  border-color: black;
+  border-radius: 9px;
+}
+.btnc:hover{
+  background-color: rgb(227, 74, 74);
+  border-color: transparent;
+}
+.xbtn{
+  color: black;
+}
